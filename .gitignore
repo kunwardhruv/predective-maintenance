@@ -1,0 +1,11 @@
+# Ignore datasets
+*.csv
+
+# Ignore trained models
+*.pkl
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files
+*.log
