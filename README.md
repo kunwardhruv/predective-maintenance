@@ -6,6 +6,7 @@ The goal is to predict potential failures in advance, improving reliability and 
 ---
 
 ## 📂 Project Structure
+```
 
 │── model/
 │ ├── app.ipynb # Main notebook for training & model development
@@ -18,24 +19,26 @@ The goal is to predict potential failures in advance, improving reliability and 
 │ └── prediction_output.csv # (Ignored in repo)
 │── .gitignore
 
-
+```
 ---
-
+```
 ## 🚀 Features
 - Preprocessing and cleaning of dataset  
 - Feature extraction and selection  
 - Training with **Decision Tree Classifier**  
 - Model evaluation on test dataset  
 - Testing pipeline for new data  
-
+```
 ---
 
+```
 ## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/kunwardhruv/predictive-maintenance.git
    cd predictive-maintenance
+
 2. Create and actpython -m venv venv
 venv\Scripts\activate   # For Windows
 source venv/bin/activate  # For Mac/Linux
@@ -55,4 +58,5 @@ jupyter notebook model/app.ipynb
 
 Run the testing notebook:
 jupyter notebook testing/testing.ipynb
+```
 
