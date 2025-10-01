@@ -21,8 +21,9 @@ The goal is to predict potential failures in advance, improving reliability and 
 
 ```
 ---
-```
+
 # 🚀 Features
+```
 - Preprocessing and cleaning of dataset  
 - Feature extraction and selection  
 - Training with **Decision Tree Classifier**  
