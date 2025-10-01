@@ -5,7 +5,7 @@ The goal is to predict potential failures in advance, improving reliability and 
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 ```
 
 │── model/
@@ -32,7 +32,7 @@ The goal is to predict potential failures in advance, improving reliability and 
 ---
 
 ```
-## ⚙️ Installation
+# ⚙️ Installation
 
 1. Clone the repository:
    ```bash
